@@ -1,1 +1,1 @@
-# Treinamento de Gti com Roni Garcia
+# Treinamento de Git na quarentena do coronavirus
